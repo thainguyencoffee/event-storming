@@ -59,7 +59,7 @@ May mắn thay, chúng ta có rất nhiều thành phần để lựa chọn!
 
 Tôi rất vui mừng thông báo rằng, cùng với người bạn của mình, [Michał Michaluk](https://x.com/michal_michaluk), chúng
 tôi đã tạo ra một sáng kiến mang tên #dddbyexamples. Mục đích của sáng kiến này là kết nối các phần khác nhau của hệ
-sinh thái Spring với sự quan tâm của những người đam mê DDD. Bạn có thể xem các ví dụ mẫu của chúng tôi tại đây. Cho đến
+sinh thái Spring với sự quan tâm của những người đam mê DDD. Bạn có thể xem các ví dụ mẫu của chúng tôi [tại đây](https://github.com/ddd-by-examples). Cho đến
 nay, có hai ví dụ mẫu. Một ví dụ tập trung vào Event Sourcing (nguồn sự kiện) và Command Query Responsibility
 Segregation (phân tách trách nhiệm truy vấn lệnh), trong khi ví dụ kia tập trung vào một ví dụ DDD từ đầu đến cuối. Cả
 hai đều được triển khai bằng Spring Boot.
@@ -100,8 +100,8 @@ thẻ nhựa). Nhưng đây là một truy vấn, không phải là lệnh. Đ�
 dụng ghi chú màu xanh lá cây.
 
 Bước tiếp theo rất quan trọng. Chúng ta cần biết liệu nguyên nhân đó có đủ để sự kiện miền xảy ra hay không. Có thể có
-điều kiện khác cần phải được đáp ứng. Có thể có nhiều hơn một điều kiện. Những điều kiện này được gọi là **invariants
-** (bất biến). Nếu có, chúng ta ghi chúng vào các ghi chú màu vàng và đặt giữa các sự kiện và nguyên nhân.
+điều kiện khác cần phải được đáp ứng. Có thể có nhiều hơn một điều kiện. Những điều kiện này được gọi là 
+**invariants**(bất biến). Nếu có, chúng ta ghi chúng vào các ghi chú màu vàng và đặt giữa các sự kiện và nguyên nhân.
 
 ![](https://github.com/pilloPl/eventstorming-with-spring/blob/master/invariants.png?raw=true)
 
