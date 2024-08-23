@@ -1,4 +1,5 @@
-# Event Storming and Spring with a Splash of DDD (Vietnamese)
+# Event Storming and Spring with a Splash of DDD (Vietnamese) 
+### [Link gốc](https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd)
 
 _Nguyên tắc để triển khai phần mềm nhanh hơn trong khi vẫn tăng cường độ tin cậy:_ <br>
 
